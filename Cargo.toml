@@ -1,0 +1,8 @@
+[package]
+name = "rs-midi"
+version = "0.1.0"
+authors = ["Benjamin-Davies <bentendavies@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rimd = "0.0"
