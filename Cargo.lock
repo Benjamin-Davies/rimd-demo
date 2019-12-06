@@ -151,7 +151,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rs-midi"
+name = "rimd-demo"
 version = "0.1.0"
 dependencies = [
  "rimd 0.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
